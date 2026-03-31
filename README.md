@@ -84,7 +84,7 @@ recipe-website/
 
 This project is deployed using **GitHub Pages**.
 
-* 🔗 Live Website: https://gsc15-alt.github.io/mywebsite/index.html
+* 🔗 Live Website: https://gsc15-alt.github.io/mywebsite/
 * 📁 GitHub Repository: https://github.com/gsc15-alt/mywebsite
 
 ---
